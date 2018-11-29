@@ -9,3 +9,5 @@ const Meta = () => (
 		<title>Slick Fits!</title>
 	</Head>
 );
+
+export default Meta
