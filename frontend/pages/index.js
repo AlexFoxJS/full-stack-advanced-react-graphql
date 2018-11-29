@@ -5,12 +5,8 @@ const Home = props => (
 
 		<h1>Home</h1>
 
-		<Link>
-			<a href="/">Home</a>
-		</Link>
-
-		<Link>
-			<a href="/Sell">Sell</a>
+		<Link href="/Sell">
+			<a>Sell</a>
 		</Link>
 
 	</div>

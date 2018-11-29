@@ -5,12 +5,8 @@ const Sell = props => (
 
 		<h1>Sell</h1>
 
-		<Link>
-			<a href="/">Home</a>
-		</Link>
-
-		<Link>
-			<a href="/Sell">Sell</a>
+		<Link href="/">
+			<a>Home</a>
 		</Link>
 
 	</div>
